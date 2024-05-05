@@ -1,3 +1,7 @@
-This application was created using HTML, CSS and JavaScript
+# Tentang Aplikasi
+aplikasi digunakan untuk menghitung estimasi waktu dari jam sekarang (WIB) ke waktu yang ditentukan. semisal sekarang jam 12.00 lalu kita memasukkan jam 16.00 maka program akan menghitung jarak antara kedua waktu tersebut
 
-The application has two inputs, namely hours and minutes, and will output the time needed to achieve these inputs
+# Fitur
+- menghitung estimasi waktu
+- menyimpan estimasi waktu dengan label ke penyimpanan local browser dan cloud (untuk cloud masih dibatasi oleh developer) dengan mengisi waktu di input yang disediakan lalu tekan enter dibagian input menit
+- menghapus waktu yang disimpan (tekan tanda panah di bagian bawah website lalu klik item yang ingin dihapus)
