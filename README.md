@@ -1,5 +1,8 @@
 # Tentang Aplikasi
-aplikasi digunakan untuk menghitung estimasi waktu dari jam sekarang (WIB) ke waktu yang ditentukan. semisal sekarang jam 12.00 lalu kita memasukkan jam 16.00 maka program akan menghitung jarak antara kedua waktu tersebut
+aplikasi digunakan untuk menghitung estimasi waktu dari jam sekarang (WIB) ke waktu yang ditentukan. 
+
+# Contoh penggunaan
+sekarang jam 12.00 lalu kita memasukkan jam 16.00 maka program akan menghitung jarak antara kedua waktu tersebut
 
 # Fitur
 - menghitung estimasi waktu
